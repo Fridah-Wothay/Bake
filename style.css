@@ -1,0 +1,43 @@
+#dolls{
+    background-image: url(image/keke.jpgIT);
+    background-size: cover;
+}
+#style{
+    display: flex;
+    flex: content;
+    justify-content: space-between;
+    font-size: xx-large;
+}
+#name{
+    font-size: xx-large;
+    text-align: center;
+    font-style: oblique;
+}
+#cup{
+    display: flex;
+    flex: content;
+    justify-content: center;
+
+
+}
+#menu{
+    background-image: url(image/Bakery-menu-template-with-blackboard-vectors-06.jpg);
+}
+#info{
+    font-size: x-large;
+    font-style: oblique;
+    margin-left: 40%;
+}
+#menu{
+    font-size: xx-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+#Pic{
+    background-image: url(image/background.avif);
+    background-size: cover;
+}
+#button{
+    padding: 20px;
+    color: blue;
+}
